@@ -1,0 +1,8 @@
+vgg_model.py
+
+This file contains the definition of the VGG model for transfer learning and functions for training the VGG model.
+
+
+Functions:
+- build_vgg19(input_shape, num_classes, dropout_rate): Builds the VGG19 model with specified input shape, number of classes, and dropout rate.
+- train_vgg19_model(x_train, y_train_encoded): Trains the VGG model using the provided training data.

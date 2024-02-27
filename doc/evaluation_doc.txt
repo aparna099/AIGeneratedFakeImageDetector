@@ -1,0 +1,6 @@
+evaluation.py
+
+This file contains functions for evaluating the trained models.
+
+Functions:
+- evaluate_model(model, x_test, y_test_encoded): Evaluates the performance of the trained model on the test data.

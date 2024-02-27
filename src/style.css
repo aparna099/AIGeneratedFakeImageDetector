@@ -1,0 +1,82 @@
+/* style.css */
+
+/* Font size for st.title */
+h1.st-ct {
+    font-size: 32px;
+  }
+  
+  /* Font size for st.header */
+  h2.st-de {
+    font-size: 28px;
+  }
+  
+  /* Font size for st.subheader */
+  h3.st-de {
+    font-size: 24px;
+  }
+  
+  /* Font size for st.write */
+  p.st-br {
+    font-size: 18px;
+  }
+  
+  /* Font size for st.expander */
+  div.st-eb [data-baseweb="panel-container"] .stMarkdown p {
+    font-size: 20px;
+  }
+  
+  /* Font size for st.tabs */
+  div.st-bq [data-baseweb="tab-list"] button {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.button */
+  button.st-at {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.text_input */
+  input.st-cl {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.text_area */
+  textarea.st-ck {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.number_input */
+  input.st-cm {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.selectbox */
+  select.st-co {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.multiselect */
+  div.st-cp {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.slider */
+  div.st-cq {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.radio */
+  div.st-cs label {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.checkbox */
+  div.st-cs input[type="checkbox"] + label {
+    font-size: 16px;
+  }
+  
+  /* Font size for st.markdown */
+  div.st-bs p {
+    font-size: 16px;
+  }
+  

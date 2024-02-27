@@ -1,0 +1,7 @@
+cnn_model.py
+
+This file contains the definition of the CNN model and functions for training the CNN model.
+
+Functions:
+- create_cnn_model(input_shape): Creates the CNN model with the specified input shape.
+- train_cnn_model(x_train, y_train_encoded): Trains the CNN model using the provided training data.
